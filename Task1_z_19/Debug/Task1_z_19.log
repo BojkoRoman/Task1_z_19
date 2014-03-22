@@ -1,0 +1,17 @@
+﻿Build started 22.03.2014 19:12:38.
+     1>Project "E:\Roman\Project Visual\Task_1_(17-20)\Task1_z_19\Task1_z_19\Task1_z_19.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Task1_z_19.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         Task1_z_19.vcxproj -> E:\Roman\Project Visual\Task_1_(17-20)\Task1_z_19\Debug\Task1_z_19.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Task1_z_19.unsuccessfulbuild".
+         Touching "Debug\Task1_z_19.lastbuildstate".
+     1>Done Building Project "E:\Roman\Project Visual\Task_1_(17-20)\Task1_z_19\Task1_z_19\Task1_z_19.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.14
